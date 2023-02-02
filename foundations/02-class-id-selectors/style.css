@@ -1,0 +1,19 @@
+.not-cool{
+    background-color: lightpink;
+    font-family: Verdana "DejaVu Sans" sans-serif
+}
+
+.not-cool#actually-cool{
+    font-size:24px;
+}
+
+#edgy{
+    color:blue;
+    font-size: 24px;
+}
+
+#lonewulf{
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
