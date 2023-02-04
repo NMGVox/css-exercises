@@ -7,9 +7,27 @@ img {
   height: 100px;
 }
 
+.title-container{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.images-container{
+  display:flex;
+  justify-content: center;
+  text-align:center;
+}
+
+
 .title {
   font-size: 36px;
   font-weight: 900;
+}
+
+.bio{
+  width: 200px;
+  margin:52px;
 }
 
 /* do not edit this footer */
